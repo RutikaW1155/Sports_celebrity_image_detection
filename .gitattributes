@@ -1,0 +1,5 @@
+# Set all files to LF line endings in the repository
+* text=auto
+*.js text eol=lf
+*.json text eol=lf
+*.ipynb text eol=lf
